@@ -2,7 +2,7 @@
 
 ## 📋 Projet Académique - Master 1 BIDABI (2024-2025)
 
-Ce projet vise à **modéliser et prévoir la consommation mensuelle d'électricité** en Île-de-France sur la période 2016–2024 à l'aide de méthodes économétriques avancées (modèles ARIMAX).
+Ce projet vise à **modéliser et prévoir la consommation mensuelle d'électricité** en Île-de-France sur la période 2016–2024 à l'aide de méthodes économétriques avancées (modèles SARIMAX).
 
 ---
 
